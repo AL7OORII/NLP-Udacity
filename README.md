@@ -28,8 +28,8 @@ This project was built as part of the Udacity Front-End Nanodegree program.
 ## 🛠️ Installation & Setup
 
  **Clone this repository:**
- npm run build-dev
- npm run start
- Go to http://localhost:8000
+ then npm run build-dev
+ then npm run start,
+ Finally Go to http://localhost:8000
 
   
